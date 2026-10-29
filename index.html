@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow">
 <meta name="description" content="Three ways to celebrate: a steak dinner, a holiday stroll, and a nightcap in Central Florida.">
 <title>An anniversary evening</title>
@@ -10,6 +10,17 @@
 @media(max-width:950px){.wrap{padding:0 24px}.content{padding:18px}.why{min-height:130px}.facts div{display:block}.facts dd{text-align:left}.decision{align-items:flex-start}.details{gap:20px}}
 @media(max-width:700px){.wrap{padding:0 20px}.top .wrap{min-height:64px}.brand{font-size:18px}nav{gap:15px}nav a{font-size:12px}header.intro{padding:34px 0 27px}h1{font-size:42px}.intro p:last-child{font-size:16px}.decision{display:block;padding:16px 0;margin-bottom:24px}.status{display:block;margin-top:10px}.options,.dates,.details,.questions,.sources{grid-template-columns:1fr;gap:24px}.photo{height:215px}.content{padding:22px}.why{min-height:0}.facts div{display:flex}.facts dd{text-align:right}.section{padding:34px 0}.section-head{display:block;margin-bottom:22px}.section-head p{margin-top:10px}.date{padding-top:13px}.details{gap:20px}.detail{padding-bottom:10px}.questions{gap:25px}.caption{padding:8px 22px}h2{font-size:29px}.sources{gap:10px}}
 .footer.wrap{padding-left:32px;padding-right:32px}.caption{font-size:12px}.fine{font-size:13px}.photo[src="assets/kres.webp"]{object-position:center 72%}.date strong{white-space:nowrap}.detail p:first-of-type{min-height:132px}@media(max-width:700px){.top .wrap{flex-wrap:wrap;gap:0;padding-top:8px;padding-bottom:3px}.brand{width:100%;margin-bottom:1px}nav{gap:24px}nav a{font-size:13px}.footer.wrap{padding-left:20px;padding-right:20px}.detail p:first-of-type{min-height:0}.date-tag{font-size:12px}.caption{font-size:12px}.section{padding:30px 0}}
+/* Touch-first layout: retain zoom and account for notches in either orientation. */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);padding-bottom:env(safe-area-inset-bottom)}
+.top{padding-top:env(safe-area-inset-top)}
+a,summary{touch-action:manipulation}
+nav a{min-width:44px}.brand{min-height:44px;display:inline-flex;align-items:center}
+.sources a{min-height:44px;display:flex;align-items:center}.facts dd a{min-width:64px;min-height:44px;display:inline-flex;align-items:center;justify-content:flex-end}
+.facts div{align-items:center;flex-wrap:wrap}.date strong{white-space:normal}
+@media(max-width:950px){.options,.dates,.details{grid-template-columns:1fr}.why{min-height:0}.detail p:first-of-type{min-height:0}.photo{height:240px}.facts div{display:flex}.facts dd{text-align:right}.option{max-width:680px;width:100%;margin-inline:auto}}
+@media(max-width:700px){.why,.sequence,.date p,.detail p,.questions ul,.section-head p,.button{font-size:16px}.caution,.place,.date small{font-size:15px}.facts dt{font-size:14px}.facts dd{font-size:15px}.fine,.caption,.status{font-size:14px}.role,.eyebrow{font-size:12px}.button{min-height:48px}.links{gap:10px}.photo{height:210px}.footer{font-size:14px}.sources{gap:14px}.facts div{gap:6px 12px}nav{gap:18px;flex-wrap:wrap}nav a{font-size:14px}.status{white-space:normal}}
+@media(max-width:359px){.wrap{padding-inline:16px}.content{padding:18px}.facts div{display:block}.facts dd{text-align:left}.facts dd a{justify-content:flex-start}h1{font-size:36px}.footer.wrap{padding-inline:16px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media print{nav,.button,.back{display:none}.wrap{max-width:none;padding:0}.option{break-inside:avoid}.photo{height:130px}body{font-size:12pt}.section{padding:24px 0}}
 </style>
 </head>
