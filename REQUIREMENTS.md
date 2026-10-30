@@ -1,9 +1,9 @@
 # Anniversary evening 2026 — requirements (source of truth)
 
-Set by Kristina, 2026-10-29. Check every option and every published version against ALL of these.
+Set 2026-10-29. Check every option and every published version against ALL of these.
 
 1. **Date:** around Dec 22, 2026 (Tue). Re-verify hours/holiday service for the chosen date.
-2. **Start/end:** leaves from and returns to Kristina's parents' home in Clermont, FL (exact address private; never published).
+2. **Start/end:** leaves from and returns to our Clermont base (exact address kept private; never published).
 3. **Drive:** about 30 min max each way, checked in **both** directions (outbound and return).
 4. **Feel:** romantic, a reason to dress up.
 5. **Variety:** 3 genuinely different cuisines; **at most one steakhouse**.
@@ -15,7 +15,7 @@ Set by Kristina, 2026-10-29. Check every option and every published version agai
 - Public page shows only "Clermont" as the base. No street address in HTML, README, assets, or links.
 
 ## Verification log
-- 2026-10-29: Google Maps drive times from the parents' home, out / back:
+- 2026-10-29: Google Maps drive times from the Clermont base, out / back:
   - Chef's Table at the Edgewater, Winter Garden: 29 / 28 min
   - Matthew's Steakhouse, Winter Garden: 26 / 27 min
   - Huarike Peruvian, downtown Clermont: 5 / 6 min
