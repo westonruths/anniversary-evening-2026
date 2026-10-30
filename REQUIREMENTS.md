@@ -2,7 +2,7 @@
 
 Set 2026-10-29. Check every option and every published version against ALL of these.
 
-1. **Date:** originally "Dec 22-ish". CONFLICT (found 2026-10-30): the family calendar shows a flight to Houston on Dec 22 and arrival in Orlando on Dec 26, with departure the morning of Jan 3. The evening must fall between Dec 26 and Jan 2. Awaiting the Principal's pick; candidates are Tue Dec 29 and Wed Dec 30. Re-verify hours and holiday service for the chosen date.
+1. **Date:** BOOKED — Tue Dec 29, 2026, 7:00 PM ET, Chef's Table at the Edgewater (booked by the Principal 2026-10-30). Family is in Orlando Dec 26–Jan 2 (Family calendar). Dec 22 was ruled out: that day is the flight to Houston.
 2. **Start/end:** leaves from and returns to our Clermont base (exact address kept private; never published).
 3. **Drive:** about 30 min max each way, checked in **both** directions (outbound and return).
 4. **Feel:** romantic, a reason to dress up.
